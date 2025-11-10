@@ -1,0 +1,5 @@
+Hello! @username #hashtag $money %percent ^caret &ampersand *asterisk (parentheses)
+Underscores_and-dashes/slashes\\backslashes|pipes:colons;semicolons"quotes"
+Email: test@example.com Website: https://example.com/path?query=value
+Math: 2+2=4, 10*10=100, (x+y)^2 = x^2 + 2xy + y^2
+Programming: public static void main(String[] args) { System.out.println("Hello"); }

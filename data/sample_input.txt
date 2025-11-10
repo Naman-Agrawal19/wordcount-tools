@@ -1,0 +1,25 @@
+This is a sample text document for testing the Wordcount Tools application.
+The application will count words, characters, and analyze word frequency.
+This is the third sentence. This text contains repeated words for testing.
+Wordcount Tools provides comprehensive text analysis capabilities.
+Java programming makes this possible and efficient.
+
+Repeated words help demonstrate the frequency analysis feature.
+Words like "application", "text", and "analysis" appear multiple times.
+This allows users to see how the word frequency counter works in practice.
+
+The quick brown fox jumps over the lazy dog. This classic sentence contains
+every letter in the English alphabet, making it useful for testing.
+
+Special characters and punctuation: hello, world! How are you today?
+Numbers can also be included: 123, 456, 789. Mixed words like word123 and test456.
+
+Multiple     spaces    between    words    should    be    handled    properly.
+Tabs	and	line
+breaks
+should
+also
+work
+correctly.
+
+UPPERCASE and lowercase words should be treated as the SAME word for counting.
